@@ -9,7 +9,7 @@ def unique_in_order(obj)
   end
 
   obj.each {|e| answer << e if answer[-1] != e}
-  return answer
+  answer
 end
 
 p unique_in_order('AAAAABBBCCDAAABBB') == ["A", "B", "C", "D", "A", "B"]
