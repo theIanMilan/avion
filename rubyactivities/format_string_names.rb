@@ -24,8 +24,8 @@ def format_string_of_names(array)
   end
 end
 
-p format_string_of_names(list0)
-p format_string_of_names(list1)
-p format_string_of_names(list2)
-p format_string_of_names(list3)
-p format_string_of_names(list4)
+p format_string_of_names(list0) == "Bart, Lisa, Maggie, & Homer"
+p format_string_of_names(list1) == "Bart, Lisa, & Maggie"
+p format_string_of_names(list2) == "Bart & Lisa"
+p format_string_of_names(list3) == "Bart"
+p format_string_of_names(list4) == ""
