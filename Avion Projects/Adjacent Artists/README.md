@@ -16,7 +16,7 @@ Luckily, TasteDive's API had a callback parameter to allow the use of JSONP. Thi
 ## Screenshot
 
 <p float = 'left'>
-    <img src="Avion Projects/Adjacent Artists/assets/images/android_app_screenshot.jpg" alt="App on Android" width="268" height="500">
+    <img src="https://github.com/theIanMilan/avion/blob/main/Avion%20Projects/Adjacent%20Artists/assets/images/android_app_screenshot.jpg" alt="App on Android" width="268" height="500">
 </p>
 Android App Screenshot
 
