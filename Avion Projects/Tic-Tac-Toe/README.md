@@ -1,4 +1,4 @@
-## Live Demo
+## Live App
 View the [live app.](https://theianmilan.github.io/avion/Avion%20Projects/Tic-Tac-Toe/index.html)
 
 ## Introduction
@@ -16,8 +16,8 @@ This is a simple Tic-Tac-Toe project that can be played against another player o
 ## Demo
 
 <p float = 'left'>
-    <img src="Avion Projects/Tic-Tac-Toe/assets/tictactoe_gif.gif" alt="App Demo" width="500" height="300">
-    <span>App Demo</span>
+    <img src="https://github.com/theIanMilan/avion/blob/main/Avion%20Projects/Tic-Tac-Toe/assets/tictactoe_gif.gif" alt="App Demo" width="500" height="300">
+    <p>App Demo</p>
 </p>
 
 ## Project Background
