@@ -1,4 +1,4 @@
-## Live Demo
+## Live App
 View the [live app.](https://theianmilan.github.io/avion/Avion%20Projects/Adjacent%20Artists/index.html)
 
 ## Introduction
@@ -21,8 +21,8 @@ Luckily, TasteDive's API had a callback parameter to allow the use of JSONP. Thi
 ## Screenshot and Demo
 
 <p float = 'left'>
-    <img src="Avion Projects/Adjacent Artists/assets/images/adjacent_artists_gif.gif" alt="App Demo" width="500" height="300">
-    <span>App Demo</span>
+    <img src="https://github.com/theIanMilan/avion/blob/main/Avion%20Projects/Adjacent%20Artists/assets/images/adjacent_artists_gif.gif" alt="App Demo" width="500" height="300">
+    <p>App Demo</p>
 
 <br>
     <img src="https://github.com/theIanMilan/avion/blob/main/Avion%20Projects/Adjacent%20Artists/assets/images/android_app_screenshot.jpg" alt="App on Android" width="268" height="500">
