@@ -11,7 +11,7 @@ This is a simple Tic-Tac-Toe project that can be played against another player o
 * Minimax algorithm implemented on AI for impossible difficulty
 * Choose from grid sizes of 3x3, 5x5, or 7x7
 * Emoji-enabled player and opponent marks (instead of the usual X's or O's)
-* Move walkthrough available at end of game through previous/next buttons
+* Move walk through available at end of game through previous/next buttons
 
 ## Demo
 
