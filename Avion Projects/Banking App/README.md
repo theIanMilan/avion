@@ -1,5 +1,5 @@
 ## Live App
-View the [live app.](https://theianmilan.github.io/avion/Avion%20Projects/Adjacent%20Artists/index.html)
+View the [live app.](https://theianmilan.github.io/avion/Avion%20Projects/Banking%20App/index.html)
 
 ## Usage
 To access **Admin Dashboard**, login with these credentials:
